@@ -1,0 +1,7 @@
+2017-10-26 23:20:37,927 [INFO ][org.jppf.utils.VersionUtils.logVersionInformation(88)]: --------------------------------------------------------------------------------
+2017-10-26 23:20:37,934 [INFO ][org.jppf.utils.VersionUtils.logVersionInformation(89)]: JPPF Version: 4.0.1, Build number: 1309, Build date: 2014-02-27 11:04 CET
+2017-10-26 23:20:37,934 [INFO ][org.jppf.utils.VersionUtils.logVersionInformation(90)]: starting node with PID=7998, UUID=CF8BFA2E-6222-DF33-3744-DF6DBC63C8EC
+2017-10-26 23:20:37,935 [INFO ][org.jppf.utils.VersionUtils.logVersionInformation(91)]: --------------------------------------------------------------------------------
+2017-10-26 23:20:39,394 [INFO ][org.jppf.classloader.ClassLoaderRequestHandler.run(155)]: maxBatchSize = 1
+2017-10-26 23:20:39,513 [INFO ][org.jppf.server.node.NodeExecutionManagerImpl.<init>(137)]: running 4 processing threads
+2017-10-26 23:20:39,514 [INFO ][org.jppf.server.node.NodeExecutionManagerImpl.createThreadManager(164)]: Using default thread manager

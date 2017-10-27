@@ -1,0 +1,12 @@
+2017-10-26 23:21:19,930 [DEBUG][org.jppf.ui.options.xml.OptionDescriptorParser.createScriptDescriptor(242)]: no protocol: org/jppf/ui/options/xml/imports.groovy
+2017-10-26 23:21:19,934 [DEBUG][org.jppf.ui.options.xml.OptionDescriptorParser.createScriptDescriptor(242)]: no protocol: org/jppf/ui/options/xml/jppfAdminTool.groovy
+2017-10-26 23:21:20,327 [INFO ][org.jppf.utils.VersionUtils.logVersionInformation(88)]: --------------------------------------------------------------------------------
+2017-10-26 23:21:20,328 [INFO ][org.jppf.utils.VersionUtils.logVersionInformation(89)]: JPPF Version: 4.0.1, Build number: 1309, Build date: 2014-02-27 11:04 CET
+2017-10-26 23:21:20,328 [INFO ][org.jppf.utils.VersionUtils.logVersionInformation(90)]: starting client with PID=8227, UUID=280DA4FE-7149-795E-EBB1-6C2D45076EDE
+2017-10-26 23:21:20,328 [INFO ][org.jppf.utils.VersionUtils.logVersionInformation(91)]: --------------------------------------------------------------------------------
+2017-10-26 23:21:20,330 [INFO ][org.jppf.client.AbstractGenericClient.init(106)]: JPPF client starting with sslEnabled = false
+2017-10-26 23:21:21,133 [DEBUG][org.jppf.ui.options.xml.OptionDescriptorParser.createScriptDescriptor(242)]: no protocol: org/jppf/ui/options/xml/chartsConfig.groovy
+2017-10-26 23:21:21,190 [INFO ][org.jppf.client.AbstractGenericClient.newConnection(246)]: connection [driver-1] created
+2017-10-26 23:21:21,284 [DEBUG][org.jppf.ui.options.xml.OptionDescriptorParser.createScriptDescriptor(242)]: no protocol: org/jppf/ui/options/xml/bundleSize.groovy
+2017-10-26 23:21:21,322 [INFO ][org.jppf.client.ClassServerDelegateImpl.init(81)]: [client: driver-1 - ClassServer] Attempting connection to the class server at 192.168.0.11:11111
+2017-10-26 23:21:22,329 [INFO ][org.jppf.client.ClassServerDelegateImpl.init(91)]: [client: driver-1 - ClassServer] Reconnected to the class server
